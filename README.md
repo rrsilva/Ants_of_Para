@@ -1,6 +1,3 @@
-# Ants_of_Para
-Ants of the State of Pará, Brazil: a historical and comprehensive dataset of a key biodiversity hotspot in the Amazon Basin
-
 # <span style="color:red">SCIANTS Amazonia</span>: Sampling, Conservation and Identification of Amazonian Ants
 --------------------------------------------------------
 ## ***<img align="right" width="250" src="https://github.com/rrsilva/Ants_of_Para/blob/main/cover_book_image.jpeg">Ants of the State of Pará, Brazil: a historical and comprehensive dataset of a key biodiversity hotspot in the Amazon Basin***
@@ -20,4 +17,4 @@ Updated versions of ANTS OF PARA data set can be accessed in this Github reposit
 This compilation was coordinated by Emília Zoppas de Albuquerque/NMNH  [[emilia_albuq@hotmail.com](mailto:emilia_albuq@hotmail.com)], Lívia Pires do Prado/MPEG,  [[livia.pires7@gmail.com](mailto:livia.pires7@gmail.com)], Joudellys Andrade-Silva [[joudellys@gmail.com ](mailto:joudellys@gmail.com )], and Rogério R. Silva/MPEG [[rogeriosilva@museu-goeldi.br](rogeriosilva@museu-goeldi.br)].
 
 #### Data collection started in December 2018. 
-#### Manuscript published in June 2022 at Zootaxa.
+#### Manuscript published in July 2021.
