@@ -14,6 +14,8 @@ The original data set, first release, is also fully available on [Dryad reposito
 
 Updated versions of ANTS OF PARA data set can be accessed in this Github repository.
 
+[![DOI](https://zenodo.org/badge/407173886.svg)](https://zenodo.org/badge/latestdoi/407173886)
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 This compilation was coordinated by Emília Zoppas de Albuquerque/NMNH  [[emilia_albuq@hotmail.com](mailto:emilia_albuq@hotmail.com)], Lívia Pires do Prado/MPEG,  [[livia.pires7@gmail.com](mailto:livia.pires7@gmail.com)], Joudellys Andrade-Silva [[joudellys@gmail.com ](mailto:joudellys@gmail.com )], and Rogério R. Silva/MPEG [[rogeriosilva@museu-goeldi.br](rogeriosilva@museu-goeldi.br)].
