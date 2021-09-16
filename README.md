@@ -8,7 +8,7 @@ The state of Pará in northern Brazil is located entirely within the Amazon Basi
   <img src="https://github.com/rrsilva/Ants_of_Para/blob/main/ants_of_PA_records.jpg" width="600" title="hover text">
 </p>
 
-The study was published in [Zootaxa] (https://www.mapress.com/zt/article/view/zootaxa.5001.1.1) on 16 July, 2021.
+The study was published in **Zootaxa** (https://www.mapress.com/zt/article/view/zootaxa.5001.1.1) on 16 July, 2021.
 
 The original data set, first release, is also fully available on Dryad repository.
 
